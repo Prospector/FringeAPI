@@ -1,7 +1,7 @@
 {
   "id": "fringe",
   "name": "Fringe API",
-  "version": "0.1.0",
+  "version": "$version",
   "side": "universal",
   "initializer": "io.github.prospector.fringe.Fringe",
   "description": "A universal API for info-displaying HUDs.",
